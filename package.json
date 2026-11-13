@@ -1,0 +1,14 @@
+{
+  "name": "is-prime-validator",
+  "version": "1.0.0",
+  "description": "Un paquete de Node.js para verificar si un número es primo.",
+  "keywords": [
+    "prime",
+    "math",
+    "numbers",
+    "algorithm"
+  ],
+  "license": "MIT",
+  "author": "Tu Nombre",
+  "type": "commonjs"
+}
